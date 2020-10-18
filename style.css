@@ -1,0 +1,102 @@
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 130px;
+}
+
+#separationHeader{
+    background-color: #026B9C;
+    height: 4px;
+    margin: 0%;
+}
+
+body{
+    background-color: #F5F6F8;
+}
+
+.container, header{
+    background-color: white;
+}
+
+.nav-link{
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.bgBlue{
+    background-color: #026B9C;
+    display: inline-flex;
+}
+
+.bgGrey{
+    background-color: lightgrey;
+}
+
+.alignRight{
+    text-align: right;
+}
+
+.alignCenter{
+    text-align: center;
+}
+
+.alignLeft{
+    text-align: left;
+}
+
+.white{
+    color: white;
+}
+
+.red{
+    color: red;
+}
+
+.underlign{
+    text-decoration: underline;
+}
+
+.inlineNews{
+    border-right: 1px solid lightgrey;
+}
+
+#firstInlineNews{
+    border-left: 1px solid lightgrey;
+}
+
+
+.horizontalCenter{
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.actu{
+    margin-top: 1em;
+}
+
+#flashActu{
+    overflow-y: scroll;
+    height: 350px;
+    margin-top: 1em;
+}
+
+.lightBorder{
+    border: 1px solid lightgrey;
+}
+
+.mTop{
+    margin-top: 1em;
+}
+
+.borderRight{
+    border-right:1px solid lightgrey;
+    padding-right: 1.5em;
+}
+
+.imgCategory{
+    height: 170px;
+}
